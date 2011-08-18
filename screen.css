@@ -1,0 +1,8 @@
+body{
+	/*font:13px/1.5 'Helvetica Neue',Arial,Sans-serif;*/
+	font: 'Helvetica Neue',Arial,Sans-serif;
+	text-shadow:0 -1px 0 rgba(0,0,0,0.2);
+}
+a {
+	text-decoration:none;
+}
